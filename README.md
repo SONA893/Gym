@@ -29,7 +29,8 @@ Nutrition & Wellness Coaching
 Achieve optimal performance with the right nutrition. Our elite nutritionists provide tailored meal plans, supplementation advice, and lifestyle tips that will fuel your progress both in and out of the gym.
 
 
-<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/8774ca6f-4ec6-473a-b887-b19733e73ef3" />
+
+<img width="1335" height="635" alt="image" src="https://github.com/user-attachments/assets/9cfb0fd4-7161-42e7-88de-ec03518730d1" />
 
 
 
